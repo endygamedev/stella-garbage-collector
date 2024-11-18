@@ -44,8 +44,7 @@ stella-garbage-collector
     Пример:
 
     ```
-    $ build/stella_garbage_collector 
-    6
+    $ echo 6 | build/stella_garbage_collector 
 
     Before garbage collect G0 number 0
     G0 state
